@@ -12,4 +12,5 @@ Objetivo
 Vamos construir uma página que contém um jogo de adivinhação em que o jogador
 poderá dizer qual é o personagem do desenho animado Rick e Morty, caso acerte o jogador acumula pontos e caso ele erre dizemos qual o nome do personagem.
 
+Tag <main> indicar que esta é a parte principal da página.
 
