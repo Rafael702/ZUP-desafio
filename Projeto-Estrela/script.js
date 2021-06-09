@@ -12,7 +12,7 @@ let points = 0;
 let nomeDoPersonagem;
 
 generateRandomNumber = () =>{
-    return Math.floor(Math.random * numeroMaximoDePersonagens);
+    return Math.floor(Math.random() * numeroMaximoDePersonagens);
 }
 
 getCharacter = () => {
