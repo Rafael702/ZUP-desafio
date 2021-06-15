@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+h1{
+     text-align: center;
+    font-family: -apple-system,'BlinkMacSystemFont','Segoe UI','Roboto','Helvetica',
+    'Arial',sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';
+    padding: 40px;
+    
+
+}
+
+
+.barra{
+    background-color: black;
+    width: 100%;
+    height: 50px;
+}
+
+.campo-personagem div{
+    display: inline-block;
+    margin: 0px 170px ;
+    width: 300px;
+    height: 300px;
+    
+}
+
+div img{
+    width: 300px;
+    height: 300px;
+    margin: 0 5px;
+}
+
+#recarregar{
+    margin: 0 47%;
+}
+
+button img{
+    width: 40;
+    height: 40px;
+    
+}
+
